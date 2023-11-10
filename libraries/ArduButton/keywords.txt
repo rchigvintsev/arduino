@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For ArduButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduButton KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update                   KEYWORD2
+isClicked                KEYWORD2
+isHeld                   KEYWORD2
+isPressed                KEYWORD2
+isReleased               KEYWORD2
+setDebounceTimeoutMillis KEYWORD2
+setHoldTimeoutMillis     KEYWORD2
+reset                    KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
+ARDU_BUTTON_STATE_PRESSED                   LITERAL1
+ARDU_BUTTON_STATE_RELEASED                  LITERAL1
+ARDU_BUTTON_STATE_HELD                      LITERAL1
+ARDU_BUTTON_DEFAULT_DEBOUNCE_TIMEOUT_MILLIS LITERAL1
+ARDU_BUTTON_DEFAULT_HOLD_TIMEOUT_MILLIS     LITERAL1
