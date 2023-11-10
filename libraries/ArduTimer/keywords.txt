@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ArduTimer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduTimer KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isWentOff              KEYWORD2
+getRemainingTimeMillis KEYWORD2
+getIntervalMillis      KEYWORD2
+setIntervalMillis      KEYWORD2
+reset                  KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
