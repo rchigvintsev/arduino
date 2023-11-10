@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For ArduLog
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduLogLevel KEYWORD1
+ArduLogger   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+trace KEYWORD2
+debug KEYWORD2
+info  KEYWORD2
+warn  KEYWORD2
+error KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
+ARDU_LOG_MILLIS_PER_DAY    LITERAL1
+ARDU_LOG_MILLIS_PER_HOUR   LITERAL1
+ARDU_LOG_MILLIS_PER_MINUTE LITERAL1
